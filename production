@@ -1,0 +1,6 @@
+DEBUG = True # Turns on debugging features in Flask
+SERVER_NAME='rep-ap1-a-1.indiakb.com:2080'
+CLICKHOUSE_HOST='ch-ap1-a-1.indiakb.com'
+REDIS_HOST='redrep-ap1-a-1.indiakb.com'
+REDIS_PORT=6380
+REDIS_PASSWORD='kbreport'
